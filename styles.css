@@ -1,0 +1,69 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.link1{
+    width: 69px;
+    height: 48px;
+    background-color: #F4F4FD;
+    color: #4D5AE5;
+    border-color: #E7E9FC;
+}
+.link1:hover{
+    width: 69px;
+    height: 48px;
+    background-color: #4D5AE5;
+    color: #F4F4FD;
+}
+.link2{
+    width: 116px;
+    height: 48px;
+    background-color: #F4F4FD;
+    color: #4D5AE5;
+    border-color: #E7E9FC;
+}
+.link2:hover{
+    width: 116px;
+    height: 48px;
+    background-color: #4D5AE5;
+    color: #F4F4FD;
+}
+.link3{
+    height: 48px;
+    width: 78px;
+    background-color: #F4F4FD;
+    color: #4D5AE5;
+    border-color: #E7E9FC;
+}
+.link3:hover{
+    height: 48px;
+    width: 78px;
+    background-color: #4D5AE5;
+    color: #F4F4FD;
+}
+.link4{
+    Width: 101px;
+    Height: 48px;
+    background-color: #F4F4FD;
+    color: #4D5AE5;
+    border-color: #E7E9FC;
+}
+.link4:hover{
+    Width: 101px;
+    Height: 48px;
+    background-color: #4D5AE5;
+    color: #F4F4FD;
+}
+.link5{
+    width: 126px;
+    height: 48px;
+    background-color: #F4F4FD;
+    color: #4D5AE5;
+    border-color: #E7E9FC;
+}
+.link5:hover{
+    width: 126px;
+    height: 48px;
+    background-color: #4D5AE5;
+    color: #F4F4FD;
+}
+
