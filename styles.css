@@ -167,11 +167,11 @@ font-weight: 400;
 }
 li > h3 {
     font-weight: 600;
+    font-size: 20px;
+    line-height: 1.2;
     background-color: #FFFFFF;
     color: #2E2F42;
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    line-height: 1.2;
     letter-spacing: 2%;
 }
 text{
@@ -317,11 +317,11 @@ letter-spacing: 2%;
     background-color: #F4F4FD;
 }
 .list-iem3{
+font-weight: 600;
+font-size: 20px;
 background-color: #FFFFFF;
 color: #2E2F42;
 font-family: 'Roboto', sans-serif;
-font-weight: 600;
-font-size: 20px;
 line-height: 1.2;
 letter-spacing: 2%;
 }
