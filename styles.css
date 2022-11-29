@@ -231,6 +231,8 @@ text{
     font-family: 'Roboto', sans-serif;
     list-style: none;
     background-color: #FFFFFF;
+    color: #2E2F42;
+    font-size: 20px;
 }
 .list-item{
     font-size: 20px;
@@ -310,6 +312,7 @@ letter-spacing: 2%;
 }
 .list-iem3{
 background-color: #FFFFFF;
+color: #2E2F42;
 font-family: 'Roboto', sans-serif;
 font-size: 600;
 font-size: 20px;
@@ -318,6 +321,7 @@ letter-spacing: 2%;
 }
 .list-item4{
 background-color: #FFFFFF;
+color: #434455;
 font-family: 'Roboto', sans-serif;;
 font-size: 400;
 font-size: 16px;
